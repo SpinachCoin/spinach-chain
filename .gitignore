@@ -1,0 +1,9 @@
+# Binaries
+/bin
+/out
+
+# Dependencies
+/vendor
+
+# Logs
+*.log
